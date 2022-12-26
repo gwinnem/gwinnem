@@ -113,4 +113,13 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer" title="Jetbrains Webstorm">
+        <img src="./WebStorm.png" alt="Webstorm" width="40" height="40"/>
+    </a>
+    <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer" title="Visual Studio">
+        <img src="./Visual-Studio-2019.png" alt="Visual Studio" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code">
+        <img src="./Visual_Studio_Code.png" alt="Visual Studio Code" width="40" height="40"/>
+    </a>
 </p>
