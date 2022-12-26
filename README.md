@@ -72,6 +72,9 @@
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer" title="Vuetify">
         <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
     </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
+        <img src="./bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Databases:</h3>
