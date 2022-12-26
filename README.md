@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geirr Winnem</h1>
-<h3 align="center">A passionate fullstack developer from Norway. Living in the most beautiful city in the world `Vienna`  Austria.</h3>
+<h3 align="center">A passionate fullstack developer from Norway. Living in the most beautiful city in the world <strong>Vienna  Austria</strong>.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gwinnem&label=Profile%20views&color=0e75b6&style=flat" alt="gwinnem" /> </p>
 
