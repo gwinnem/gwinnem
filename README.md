@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on [Vue Virtual Keyboard Component](https://github.com/gwinnem/vue-keyboard-component)
 - 🌱 I’m currently learning **Python and GraphQl**
 - 🤝 I’m looking for help with [Vue Virtual Keyboard Component](https://github.com/gwinnem/vue-keyboard-component)
-- 👨‍💻 All of my projects are available at [https://github.com](https://github.com/gwinnem)
 - 💬 Ask me about **Almost anything**
 - 📫 How to reach me **gwinnem@gmail.com**
 - 💙 Fun fact: I don't play games. I don't like games.
