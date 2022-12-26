@@ -11,7 +11,7 @@
 - 📫 How to reach me **gwinnem@gmail.com**
 - 💙 Fun fact: I don't play games. I don't like games.
 
-<a href="#" tooltip="sdasdfasdf">Tooltip</a>
+<a href="#" title="sdasdfasdf">Tooltip</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
