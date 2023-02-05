@@ -123,3 +123,6 @@
         <img src="./Visual_Studio_Code.png" alt="Visual Studio Code" width="40" height="40"/>
     </a>
 </p>
+<br/>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gwinnem&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gwinnem)
