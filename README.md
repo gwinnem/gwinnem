@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python and GraphQl**
 - 🤝 I’m looking for help with [Vue Virtual Keyboard Component](https://github.com/gwinnem/vue-keyboard-component)
 - 💬 Ask me about **Almost anything**
-- 📫 How to reach me **gwinnem@gmail.com**
+- 📫 How to reach me **geirr@winnem.tech**
 - 💙 Fun fact: I don't play games. I don't like games.
 
 <h3 align="left">Connect with me:</h3>
