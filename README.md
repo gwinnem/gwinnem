@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gwinnem&label=Profile%20views&color=0e75b6&style=flat" alt="gwinnem" /> </p>
 
-- 🔭 I’m currently working on [Vue Virtual Keyboard Component](https://github.com/gwinnem/vue-keyboard-component)
+- 🔭 I’m currently working on the [VUE3 IFrame Component](https://github.com/gwinnem/vue3-iframe-component)
 - 🤝 I’m looking for help with [Vue Virtual Keyboard Component](https://github.com/gwinnem/vue-keyboard-component)
 - 💬 Ask me about **Almost anything**
 - 📫 How to reach me **geirr@winnem.tech**
